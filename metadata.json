@@ -7,14 +7,13 @@
   "source": "https://github.com/anderssh/ash-netbox",
   "project_page": "https://github.com/anderssh/ash-netbox",
   "issues_url": "https://github.com/anderssh/ash-netbox/issues",
-  "dependencies": [
-
-  ],
+  "dependencies": [],
   "operatingsystem_support": [
     {
       "operatingsystem": "CentOS",
       "operatingsystemrelease": [
-        "8"
+        "8",
+        "7"
       ]
     },
     {
